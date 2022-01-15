@@ -124,6 +124,14 @@ if(isset($_GET["id"])){
   <div class="card-body">
     <blockquote class="blockquote mb-0">
       <p>Evelyn Beatriz, Emilly Ferreira, Maria Ludymilla, Naalliel Medeiros e Yasmim Ilíada</p>
+      <div class="card-header">
+    Sites parceiros
+  </div>
+      <link href="https://codigo-im-kafig.herokuapp.com/">
+      <link href="https://app-especiaisnba.herokuapp.com/">
+      <link href="https://ressacaliteraria.herokuapp.com/">
+      <link href="https://ppi-julio-2022.herokuapp.com/">
+
       <footer class="blockquote-footer"> <cite title="Source Title"></cite></footer>
     </blockquote>
   </div>
