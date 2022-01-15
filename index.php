@@ -127,10 +127,14 @@ if(isset($_GET["id"])){
       <div class="card-header">
     Sites parceiros
   </div>
-      <link href="https://codigo-im-kafig.herokuapp.com/">
-      <link href="https://app-especiaisnba.herokuapp.com/">
-      <link href="https://ressacaliteraria.herokuapp.com/">
-      <link href="https://ppi-julio-2022.herokuapp.com/">
+            <a href=\"https://codigo-im-kafig.herokuapp.com/">Codigo-im</a>
+      <a href=\"https://app-especiaisnba.herokuapp.com/">App-especiaisnba</a>
+      <a href=\"https://ressacaliteraria.herokuapp.com/">Ressacaliteraria</a>
+      <a href=\"https://ppi-julio-2022.herokuapp.com/">Site de Julio</a>
+
+      
+
+
 
       <footer class="blockquote-footer"> <cite title="Source Title"></cite></footer>
     </blockquote>
